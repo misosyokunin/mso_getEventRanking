@@ -1,0 +1,2 @@
+# mso_getEventRanking
+MSOのイベントランキングを取得するブックマークレットです。
